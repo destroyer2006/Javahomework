@@ -1,0 +1,34 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	background-image: url('on buttons.jpg') ;
+	background-size: cover;
+}
+
+section{
+	max-width: 850px;
+	border: 1px solid red;
+	margin: 25px auto;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.block{
+	width: 75px;
+	height: 75px;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+hr{
+	clear: both;
+}
+p{
+	font-size: large;
+}
+image{
+	width: 100px;
+	height: 100px;
+}
